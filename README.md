@@ -11,7 +11,11 @@ Simple Eurorack compatible output module with headphone driver.
 
 Full list of components needed are included in the output.csv file. 
 
-- Potentiometers are Vertical Alpha 9mmm. 
-- Jack sockets are PJ301M-12.
+- Potentiometers need to be stereo (double). 
+- Jack sockets are PJ301M-120 (3.5mm) and PJ-341 (6.3mm). 
 - Parallel feedback capacitors are not needed but recommended.
 - 2 LM386 auido amplifiers 
+
+In order to save space and to reduce costs (since double alpha potentiometers are expensive), the pots are connected via wirees to the PCB.  
+
+![](./imgs/pots.png)
