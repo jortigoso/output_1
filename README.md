@@ -3,7 +3,7 @@ Simple Eurorack compatible output module with headphone driver.
 
 ## Features
 - **EURORACK** compatible. 100KOhm input and 1KOhm output impedances. Compatible with eurorack sizes standard (128.5mm (3U) x 8HP).
-- Simple stereo output module with **2 line ouputs** and a stereo headphone driver.
+- Simple stereo output module with **2 line ouputs (stereo)** and a stereo headphone driver.
 
 ![](./imgs/output.png)
 
