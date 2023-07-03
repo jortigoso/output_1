@@ -9,7 +9,7 @@ Simple Eurorack compatible output module with headphone driver.
 
 ## Components
 
-Full list of components needed are included in the output.csv file. 
+Full list of components needed is included in the output.csv file. 
 
 - Potentiometers need to be stereo (double). 
 - Jack sockets are PJ301M-120 (3.5mm) and PJ-341 (6.3mm). 
